@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #6c6b6b;
+}
+
+header {
+    width: 100%;
+	height: 400px;
+	background-image: url(img/mv.jpg);
+	background-position: bottom;
+	background-size: cover;
+}
+
+.headline {
+	padding: 20px;
+}
+
+main {
+	width: 840px;
+	margin: 50px auto;
+}
+
+.blog1 {
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #808080;
+}
+
+.blog2 {
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #808080;
+}
+
+.blog3 {
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #808080;
+}
+
+.blog4 {
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #808080;
+}
